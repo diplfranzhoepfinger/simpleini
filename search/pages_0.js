@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['claude_20md_0',['CLAUDE.md',['../md_CLAUDE.html',1,'']]]
+  ['simpleini_0',['simpleini',['../md_README.html',1,'simpleini'],['../index.html',1,'SimpleIni']]]
 ];
